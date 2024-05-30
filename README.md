@@ -26,15 +26,21 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alailsonbcsilva/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alailsonbarbosa/)
 
+
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=AlailsonDev&show_icons=true&theme=dracula)
+
+  
+![AlailsonDev GitHub stats](https://github-readme-stats.vercel.app/api?username=AlailsonDev&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlailsonDev&layout=donut)](https://github.com/AlailsonDev/github-readme-stats)
+
+
 
 <!-- Portfolio -->
 
 
 <!-- GIF -->
-
-
 
 
 ## 🔥 Skills
@@ -49,10 +55,9 @@
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     <img align="center" alt="Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
     <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-    
-    
-    
   </div>
+
+
   
   <!-- Skills: Tools & Frameworks -->
   
