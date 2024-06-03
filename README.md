@@ -19,7 +19,7 @@
 
   - 💬 Sou de Recife, Pernambuco. Tenho inglês avançado e experiência com os frameworks React e Angular.
 
-  - ⚡ Gosto de de ler livros sobre mundos fantásticos, terror, investigação. Também gosto de mangás, jogar video game, ouvir músicas e podcasts e qualquer outro tipo de atividade que eu possa usar a criatividade \o/
+  - ⚡ Gosto de de ler livros sobre mundos fantásticos, terror e investigação. Também gosto de mangás, jogar video game, ouvir músicas e podcasts e qualquer outro tipo de atividade que eu possa usar a criatividade \o/
 </details>
 
 <!-- Links -->
